@@ -1,0 +1,3 @@
+[submodule "components/led_effects_driver"]
+	path = components/led_effects_driver
+	url = https://github.com/Marttico/led_effects_driver
